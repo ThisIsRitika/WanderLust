@@ -1,0 +1,1 @@
+module.exports = ["Beachfront", "Cabins", "lake", "Design", "Amazing pools", "Farms", "Amazing views", "Rooms", "Lakefront", "Tiny Homes", "CountrySide", "Treehouse", "Tropical", "National Parks", "Castles", "Camping", "Luxe", "Earth Homes", "City"];
